@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/ceo_live/static/js/main.4bcbef27.js",
+    "static/js/787.f2ada89d.chunk.js": "/ceo_live/static/js/787.f2ada89d.chunk.js",
+    "static/media/award2.png": "/ceo_live/static/media/award2.e0e4f1c3802120618464.png",
+    "static/media/freelancing.png": "/ceo_live/static/media/freelancing.729f113cc352d8b8e5df.png",
+    "static/media/flutter_dev.jpg": "/ceo_live/static/media/flutter_dev.6089cd887deb47ca42d5.jpg",
+    "static/media/award3.png": "/ceo_live/static/media/award3.840438026802df36a19b.png",
+    "static/media/about_section-removebg.png": "/ceo_live/static/media/about_section-removebg.c3ff79e2f75f51dff70f.png",
+    "static/media/web_dev.png": "/ceo_live/static/media/web_dev.8038d44f82f103d5ef20.png",
+    "static/media/ceo_background_img.jpeg": "/ceo_live/static/media/ceo_background_img.0672cc8365e50ba52da6.jpeg",
+    "static/media/mj_header_img.jpeg": "/ceo_live/static/media/mj_header_img.e4f036664d9a41ce821b.jpeg",
+    "static/media/award1.jpg": "/ceo_live/static/media/award1.1a10742efe7cc219bca6.jpg",
+    "static/media/webdev.jpg": "/ceo_live/static/media/webdev.ebe781539af8c0a6e175.jpg",
+    "static/media/mj_logo.png": "/ceo_live/static/media/mj_logo.950a0f46124ea97948fc.png",
+    "index.html": "/ceo_live/index.html",
+    "main.4bcbef27.js.map": "/ceo_live/static/js/main.4bcbef27.js.map",
+    "787.f2ada89d.chunk.js.map": "/ceo_live/static/js/787.f2ada89d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4bcbef27.js"
+  ]
+}
